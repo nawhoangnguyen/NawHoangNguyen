@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Nam</h1>
+<h3 align="center">I'm a creative programmer from VietNam</h3>
 
-- 📫 Gmail : **nawaniac133@gmail.com**
+- 📫 Gmail **nawaniac133@gmail.com**
 
-- ⚡ Fun fact : **I think I am not smart and good enough in the programming industry**
+- ⚡ Fun fact: **I think I am not smart and good enough in the programming industry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
